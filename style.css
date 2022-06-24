@@ -1,0 +1,46 @@
+body {
+    background-color: burlywood;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+header{
+    height:155px ;
+    background-color:SaddleBrown ;
+    border-radius: 25px;
+}
+.beaver{
+    border: 5px solid sienna ;
+    border-radius: 15px;
+}
+header a {
+    width:100px;
+    height: 30px;
+    color: black;
+    background-color: BurlyWood;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid peru;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 5px;
+    position: relative;
+    bottom: 55;
+    margin-right: 25px;
+    margin-left:25px ;
+}
+.sbornic{
+    margin-top: 100px;
+}
+.zagolovoc{
+    position: relative;
+    bottom: 100px;
+}
+p{
+    margin-top: 55px;
+}
