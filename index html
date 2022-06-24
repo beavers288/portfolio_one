@@ -1,0 +1,19 @@
+<html>
+  <head>
+  <link rel="stylesheet" href="style.css">
+  </head>
+    <header>
+    <img class="beaver" src="https://thumbs.dfs.ivi.ru/storage4/contents/1/1/fb1b4c4bed37441526fc798b12e9b5.jpg"Width="65px"height="65px">
+        <nav>
+        <a href="">о бо мне</a>
+        <a href="">мои сайты</a>
+        <a href="">финальный сайт</a>
+            </nav>
+    </header>
+    <body>
+        <div class="sbornic">
+        <h1>Рыживолов Марк</h1>
+        <p style="font-size:20px">Меня зовут Рыживолов Марк, мне 12 лет, учусь в средней школе 34, недавно закончил 5 класс. Я занимаюсь программированием и спортом - карате. В свободное время играю в компьютерные игры.</p>
+        </div>
+    </body>
+</html>
